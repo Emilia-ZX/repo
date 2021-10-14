@@ -1,0 +1,22 @@
+body {
+      background-color: white;
+      overflow: hidden;
+    }
+
+    a {
+      color: silver;
+    }
+    .cr {
+      color:red;
+    }
+    audio { 
+      position: ;
+      width: 60px; 
+      height: 70px;
+      display: block;
+    }
+    .p {
+      color: silver;
+      font-family: 'Indie Flower';
+      font-size: 15px;
+    }
